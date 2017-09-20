@@ -1,7 +1,7 @@
 # Program template from assignment 3 used to complete the assignment
 # Program template logic designed by Prof. David Levine[UTA].
 # Program template written by Jerrin Jacob.
-# Rest of program written by Mayur Muralidhar 1001434196
+# Rest of program written by Mayur Muralidhar
 
 from PIL import Image
 
