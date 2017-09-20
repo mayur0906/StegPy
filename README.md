@@ -9,10 +9,10 @@ This program can conceal text within an image.
 
 1. Ensure source image is in same directory as python files. Source image can be GIF or PNG only.
 2. Ensure PIL library is installed for python.
-3. Run encode.py to create image with hidden data.
-4. Run decode.py to extract hidden data.
+3. Run [encode.py](https://github.com/mayur0906/StegPy/blob/master/encode.py) to create image with hidden data.
+4. Run [decode.py](https://github.com/mayur0906/StegPy/blob/master/decode.py) to extract hidden data.
 
-### Using encode.py:
+### Using [encode.py](https://github.com/mayur0906/StegPy/blob/master/encode.py):
 
 1. Open source file in your favorite text editor.
 2. Look for comment "Enter the image to be used as a carrier here."
@@ -22,7 +22,7 @@ This program can conceal text within an image.
 6. When running the python file, enter the secret message.
 7. Look at current working directory after program execution. You will get your modified image with hidden text.
 
-### Using decode.py:
+### Using [decode.py](https://github.com/mayur0906/StegPy/blob/master/decode.py):
 
 1. Open source file in your favorite text editor.
 2. Look for comment "Enter file name of image with hidden text here".
